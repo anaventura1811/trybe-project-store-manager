@@ -11,7 +11,7 @@ Projeto desenvolvido como requisito parcial para conclusão do módulo de Back-e
   - Todos os retornos de erro seguem o mesmo formato. Para erros que requerem dados adicionais (por exemplo, para informar quais campos estão incorretos) é utilizada a propriedade `data` dentro do objeto `err`.
 
  
-### Todos os seus endpoints estão no padrão REST
+### Todos os endpoints estão no padrão REST
 
 - São usados os verbos HTTP adequados para cada operação.
 
